@@ -5,7 +5,7 @@
 </p>
 
 # Mario Mendes Júnior
-<sub>From an *ETL Specialist*, passing trough *Data Engineering*, evolving to a *Data Scientist*.</sub>
+<sub>From an *ETL Specialist*, passing through *Data Engineering*, evolving to a *Data Scientist*.</sub>
 
 As a experienced ETL Specialist, I combine my experience on data quality and integration to my analytical skills, ability to work in team environments, and attention to details, aiming to contribute to the expected results and business positive impact. Having spend the last years applying ETL techniques to many different projects and business areas, it came this need to achieve a more advanced level of analysis, critical thinking and problem-solving skills, expanding my horizons to become a Data Scientist.
 
