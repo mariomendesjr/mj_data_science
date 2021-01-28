@@ -14,8 +14,8 @@ My credentials include a diploma in Data Processing from the FIVR Institute (Sã
 **Background in:** Python & Machine Learning, ETL (DataStage, ODI, PowerCenter), Databases (Oracle, SQL Server, DB2) & Dev (PL/SQL, SQL), Analytics (PowerBI).
 
 **Links:**
-* <p><a href="https://www.linkedin.com/in/mariomendesjr" target="_blank" rel="noopener noreferrer">[LinkedIn]</a></p>
-* <p><a href="https://www.medium.com/@mario.mendesjr" target="_blank" rel="noopener noreferrer">[Medium]</a></p>
+* <p><a href="https://www.linkedin.com/in/mariomendesjr" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
+* <p><a href="https://www.medium.com/@mario.mendesjr" target="_blank" rel="noopener noreferrer">Medium</a></p>
 
 ## Projects:
 Check them out:
