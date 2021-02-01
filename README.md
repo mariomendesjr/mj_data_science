@@ -7,7 +7,7 @@
 # Mario Mendes Júnior
 <sub>From an *ETL Specialist*, passing through *Data Engineering*, evolving to a *Data Scientist*.</sub>
 
-As a experienced ETL Specialist, I combine my experience on data quality and integration to my analytical skills, ability to work in team environments, and attention to details, aiming to contribute to the expected results and business positive impact. Having spend the last years applying ETL techniques to many different projects and business areas, it came this need to achieve a more advanced level of analysis, critical thinking and problem-solving skills, expanding my horizons to become a Data Scientist.
+As an experienced ETL Specialist, I combine my experience on data quality and integration to my analytical skills, ability to work in team environments, and attention to details, aiming to contribute to the expected results and business positive impact. Having spend the last years applying ETL techniques to many different projects and business areas, it came this need to achieve a more advanced level of analysis, critical thinking and problem-solving skills, expanding my horizons to become a Data Scientist.
 
 My credentials include a diploma in Data Processing from the FIVR Institute (São Paulo, Brazil), what opened me oportunites to be in contact with IT companies from São Paulo, and brought me the opportunity to working for one of the oldest IT companies with relevance and impact to the world in the last 110+ years: IBM.
 
